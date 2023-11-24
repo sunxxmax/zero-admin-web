@@ -1,0 +1,11 @@
+.login-container {
+    height: 100vh;
+
+    .login-content {
+        flex: 1;
+    }
+
+    .login-form{
+        margin-top: 14rem;
+    }
+}
